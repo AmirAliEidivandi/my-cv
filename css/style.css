@@ -125,6 +125,7 @@ section {
 
 .header .navbar a:hover {
     box-shadow: var(--box-shadow-inset);
+    color: var(--green);
 }
 
 #menu-btn {
